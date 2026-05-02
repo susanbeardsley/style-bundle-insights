@@ -1,0 +1,82 @@
+[
+  {
+    "user_id": "user_admin",
+    "email": "admin@stylebundle.com.au",
+    "display_name": "Admin User",
+    "role": "admin",
+    "team": "executive",
+    "is_active": "true",
+    "last_login_at": "2026-05-02T09:00:00Z",
+    "created_at": "2026-04-01T00:00:00Z"
+  },
+  {
+    "user_id": "user_abc123",
+    "email": "suzy@stylebundle.com.au",
+    "display_name": "Suzy (Co-Founder)",
+    "role": "admin",
+    "team": "executive",
+    "is_active": "true",
+    "last_login_at": "2026-05-02T09:30:00Z",
+    "created_at": "2026-04-01T00:00:00Z"
+  },
+  {
+    "user_id": "user_def456",
+    "email": "susan@stylebundle.com.au",
+    "display_name": "Susan (Co-Founder)",
+    "role": "admin",
+    "team": "executive",
+    "is_active": "true",
+    "last_login_at": "2026-05-02T08:45:00Z",
+    "created_at": "2026-04-01T00:00:00Z"
+  },
+  {
+    "user_id": "user_strat01",
+    "email": "strategy@stylebundle.com.au",
+    "display_name": "Strategy Lead",
+    "role": "editor",
+    "team": "strategy",
+    "is_active": "true",
+    "last_login_at": "2026-05-01T16:20:00Z",
+    "created_at": "2026-04-15T00:00:00Z"
+  },
+  {
+    "user_id": "user_mkt01",
+    "email": "marketing@stylebundle.com.au",
+    "display_name": "Marketing Manager",
+    "role": "editor",
+    "team": "marketing",
+    "is_active": "true",
+    "last_login_at": "2026-05-02T10:15:00Z",
+    "created_at": "2026-04-15T00:00:00Z"
+  },
+  {
+    "user_id": "user_buy01",
+    "email": "buying@stylebundle.com.au",
+    "display_name": "Head of Buying",
+    "role": "editor",
+    "team": "buying",
+    "is_active": "true",
+    "last_login_at": "2026-05-01T14:00:00Z",
+    "created_at": "2026-04-15T00:00:00Z"
+  },
+  {
+    "user_id": "user_seed",
+    "email": "seed@stylebundle.com.au",
+    "display_name": "Seed Import",
+    "role": "admin",
+    "team": "executive",
+    "is_active": "true",
+    "last_login_at": "2026-05-02T10:00:00Z",
+    "created_at": "2026-05-02T10:00:00Z"
+  },
+  {
+    "user_id": "user_view01",
+    "email": "intern@stylebundle.com.au",
+    "display_name": "Strategy Intern",
+    "role": "viewer",
+    "team": "strategy",
+    "is_active": "true",
+    "last_login_at": "2026-05-01T11:30:00Z",
+    "created_at": "2026-04-20T00:00:00Z"
+  }
+]
