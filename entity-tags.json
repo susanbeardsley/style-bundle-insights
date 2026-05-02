@@ -1,0 +1,242 @@
+[
+  {
+    "entity_tag_id": "ET-001",
+    "tag_id": "TAG-0003",
+    "entity_type": "occasion",
+    "entity_id": "OCC-24",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-002",
+    "tag_id": "TAG-0003",
+    "entity_type": "occasion",
+    "entity_id": "OCC-25",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-003",
+    "tag_id": "TAG-0003",
+    "entity_type": "occasion",
+    "entity_id": "OCC-26",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-004",
+    "tag_id": "TAG-0014",
+    "entity_type": "occasion",
+    "entity_id": "OCC-14",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-005",
+    "tag_id": "TAG-0014",
+    "entity_type": "bundle",
+    "entity_id": "BUN-01",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-006",
+    "tag_id": "TAG-0009",
+    "entity_type": "occasion",
+    "entity_id": "OCC-22",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-007",
+    "tag_id": "TAG-0009",
+    "entity_type": "occasion",
+    "entity_id": "OCC-21",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-008",
+    "tag_id": "TAG-0009",
+    "entity_type": "occasion",
+    "entity_id": "OCC-23",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-009",
+    "tag_id": "TAG-0009",
+    "entity_type": "occasion",
+    "entity_id": "OCC-35",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-010",
+    "tag_id": "TAG-0010",
+    "entity_type": "occasion",
+    "entity_id": "OCC-23",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-011",
+    "tag_id": "TAG-0006",
+    "entity_type": "bundle",
+    "entity_id": "BUN-15",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-012",
+    "tag_id": "TAG-0006",
+    "entity_type": "occasion",
+    "entity_id": "OCC-19",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-013",
+    "tag_id": "TAG-0002",
+    "entity_type": "bundle",
+    "entity_id": "BUN-13",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-014",
+    "tag_id": "TAG-0002",
+    "entity_type": "bundle",
+    "entity_id": "BUN-14",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-015",
+    "tag_id": "TAG-0002",
+    "entity_type": "bundle",
+    "entity_id": "BUN-15",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-016",
+    "tag_id": "TAG-0002",
+    "entity_type": "persona",
+    "entity_id": "PER-06",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-017",
+    "tag_id": "TAG-0007",
+    "entity_type": "bundle",
+    "entity_id": "BUN-10",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-018",
+    "tag_id": "TAG-0007",
+    "entity_type": "bundle",
+    "entity_id": "BUN-17",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-019",
+    "tag_id": "TAG-0008",
+    "entity_type": "bundle",
+    "entity_id": "BUN-03",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-020",
+    "tag_id": "TAG-0008",
+    "entity_type": "bundle",
+    "entity_id": "BUN-16",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-021",
+    "tag_id": "TAG-0011",
+    "entity_type": "persona",
+    "entity_id": "PER-05",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-022",
+    "tag_id": "TAG-0011",
+    "entity_type": "bundle",
+    "entity_id": "BUN-17",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-023",
+    "tag_id": "TAG-0012",
+    "entity_type": "occasion",
+    "entity_id": "OCC-36",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-024",
+    "tag_id": "TAG-0015",
+    "entity_type": "occasion",
+    "entity_id": "OCC-30",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-025",
+    "tag_id": "TAG-0015",
+    "entity_type": "bundle",
+    "entity_id": "BUN-12",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-026",
+    "tag_id": "TAG-0022",
+    "entity_type": "sentiment",
+    "entity_id": "SEN-06",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-027",
+    "tag_id": "TAG-0022",
+    "entity_type": "sentiment",
+    "entity_id": "SEN-09",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-028",
+    "tag_id": "TAG-0022",
+    "entity_type": "occasion",
+    "entity_id": "OCC-35",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-029",
+    "tag_id": "TAG-0021",
+    "entity_type": "bundle",
+    "entity_id": "BUN-09",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  },
+  {
+    "entity_tag_id": "ET-030",
+    "tag_id": "TAG-0024",
+    "entity_type": "bundle",
+    "entity_id": "BUN-09",
+    "created_at": "2026-05-02T10:00:00Z",
+    "created_by": "user_seed"
+  }
+]
